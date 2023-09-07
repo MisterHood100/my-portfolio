@@ -249,6 +249,7 @@ main {
 
 .resume_button {
   margin-bottom: 25px;
+  margin-left: 10px;
   width: 250px;
   height: 45px;
   text-align: center;
